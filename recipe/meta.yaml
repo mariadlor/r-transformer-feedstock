@@ -59,6 +59,8 @@ extra:
   recipe-maintainers:
     - conda-forge/r
     - cofinoa
+    - miturbide
+    - mariadlor
 
 
 # Package: transformeR
